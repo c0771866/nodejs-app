@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/c0771866/nodejs-application.git"
   },
   "keywords": [
     "node",
-    "Landmark Technologies",
+    "Dozie Technologies",
     "express"
   ],
-  "author": "Simon Legah",
-  "license": "MyLandmarkTech"
+  "author": "Chief Dozie",
+  "license": "WojTech"
 }
